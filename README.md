@@ -1,2 +1,19 @@
-# mock_social_media_app
-This is a landing page that shows the users of an app.
+# Social App (social-media-website)
+
+This is the Front-End for a mock social media app.
+
+Sandbox available: 
+
+## Install the dependencies
+```bash
+npm install
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+Technologies used:
+
+Quasar, Vue, Axios, Bootstrap.
