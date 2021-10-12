@@ -2,14 +2,16 @@
 
 This is the Front-End for a mock social media app.
 
-Sandbox available: 
+Sandbox available: TBA
 
 ## Install the dependencies
+
 ```bash
 npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
+
 ```bash
 quasar dev
 ```
